@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+        {
+			"path": "../.espressif"
+		}
+	],
+	"settings": {
+		"cmake.automaticReconfigure": false
+	}
+}

@@ -1,0 +1,4 @@
+idf_component_register(SRCS "main.c" "lvgl_demo_ui.c"
+                       INCLUDE_DIRS ".")
+set(CONFIG_EXAMPLE_LCD_CONTROLLER_ILI9341 ON)
+set(CONFIG_EXAMPLE_LCD_TOUCH_ENABLED ON)
